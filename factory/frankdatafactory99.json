@@ -1,0 +1,9 @@
+{
+	"name": "frankdatafactory99",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d8d76a4-6c51-40a6-a157-9d6917760558",
+		"tenantId": "a1067613-85ff-4a44-a0d0-bd79e51b9b5e"
+	}
+}
